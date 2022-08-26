@@ -6,7 +6,7 @@ function App() {
   return (
     <main>
       <Box my={4} mx={4}>
-        <p>cra-skochdev-template-ts</p>
+        <p>cra-skochdev-template-ts gh-pages autodeploy</p>
       </Box>
     </main>
   );
