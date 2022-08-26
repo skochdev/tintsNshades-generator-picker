@@ -2,7 +2,7 @@
 
 - TypeScript
 - Styled components
-- Styled System
+- Styled System with Box component and a Theme already set up
 - Modern Normalize
 - Husky pre-commit
 - Prettier
