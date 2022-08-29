@@ -1,14 +1,15 @@
 import React from 'react';
-import './App.css';
 import { Box } from './utils/Box';
+import { GlobalStyle } from './global-styles/GlobalStyle';
 
 function App() {
   return (
-    <main>
-      <Box my={4} mx={4}>
-        <p>cra-skochdev-template-ts gh-pages autodeploy</p>
+    <>
+      <GlobalStyle />
+      <Box as="main">
+        <p>cra-skochdev-template-ts is working</p>
       </Box>
-    </main>
+    </>
   );
 }
 
