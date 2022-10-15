@@ -9,10 +9,21 @@ declare module 'styled-components' {
     colors: { [k: string]: string };
     fontSizes: { [k: string]: string };
     fontWeights: number[];
-    lineHeights: { [k: string]: number };
+    lineHeights: {
+      solid: number;
+      title: number;
+      copy: number;
+    };
     space: number[];
     shadows: {
       boxShadow: { [k: string]: string };
+    };
+    breakpoints: {
+      xs: string;
+      sm: string;
+      md: string;
+      lg: string;
+      xl: string;
     };
   }
 }
