@@ -1,4 +1,4 @@
-# CRA custom template
+#ffffff# CRA custom template
 
 - TypeScript
 - Styled components

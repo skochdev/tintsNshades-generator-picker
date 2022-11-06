@@ -1,8 +1,8 @@
 {
-  "name": "cra-template-skochdev-ts",
+  "name": "tintsNshades-generator-picker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://skochdev.github.io/cra-template-skochdev-ts",
+  "homepage": "https://skochdev.github.io/tintsNshades-generator-picker",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
@@ -47,15 +47,16 @@
   "devDependencies": {
     "@types/styled-components": "^5.1.26",
     "@types/styled-system": "^5.1.15",
-    "styled-components": "^5.3.5",
-    "styled-system": "^5.1.5",
     "eslint": "^8.22.0",
     "gh-pages": "^4.0.0",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
     "modern-normalize": "^1.1.0",
     "prettier": "^2.7.1",
-    "react-icons": "^4.4.0"
+    "react-icons": "^4.4.0",
+    "styled-components": "^5.3.5",
+    "styled-system": "^5.1.5",
+    "values.js": "^2.1.1"
   },
   "lint-staged": {
     "*.{js,ts,jsx,tsx}": "eslint --cache --fix",
