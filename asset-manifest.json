@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tintsNshades-generator-picker/static/css/main.17654e45.css",
+    "main.js": "/tintsNshades-generator-picker/static/js/main.4ae8acff.js",
+    "index.html": "/tintsNshades-generator-picker/index.html",
+    "main.17654e45.css.map": "/tintsNshades-generator-picker/static/css/main.17654e45.css.map",
+    "main.4ae8acff.js.map": "/tintsNshades-generator-picker/static/js/main.4ae8acff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17654e45.css",
+    "static/js/main.4ae8acff.js"
+  ]
+}
